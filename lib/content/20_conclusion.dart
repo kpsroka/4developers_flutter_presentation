@@ -11,7 +11,7 @@ class Conclusion extends StatelessWidget {
         ),
         SizedBox(height: 32),
         Text(
-          'You are awesome',
+          'Mobile support is superb',
           style: Theme.of(context).textTheme.display1,
         ),
         SizedBox(height: 8),
